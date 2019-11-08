@@ -12,3 +12,20 @@ This project is a desktop application developed using JavaFX, it is currently un
 * Students Marks of all classes.
 * Managing of student's fees.
 * Different, details that make an application complete, for instance, searching a student, sorting by class, removing, viewing photos directly from the application
+
+
+## Main Page
+
+![I and My friends]({{site.baseurl}}/assets/img/jmain.png)
+
+## Searching
+
+![I and My friends]({{site.baseurl}}/assets/img/jsearch.png)
+
+## Marks
+
+![I and My friends]({{site.baseurl}}/assets/img/jmarks.png)
+
+## Fees
+
+![I and My friends]({{site.baseurl}}/assets/img/jfee.png)
