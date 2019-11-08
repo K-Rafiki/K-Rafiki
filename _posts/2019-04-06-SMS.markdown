@@ -16,16 +16,16 @@ This project is a desktop application developed using JavaFX, it is currently un
 
 ## Main Page
 
-![I and My friends]({{site.baseurl}}/assets/img/jmain.png)
+![I and My friends]({{site.baseurl}}/assets/img/jmain.PNG)
 
 ## Searching
 
-![I and My friends]({{site.baseurl}}/assets/img/jsearch.png)
+![I and My friends]({{site.baseurl}}/assets/img/jsearch.PNG)
 
 ## Marks
 
-![I and My friends]({{site.baseurl}}/assets/img/jmarks.png)
+![I and My friends]({{site.baseurl}}/assets/img/jmarks.PNG)
 
 ## Fees
 
-![I and My friends]({{site.baseurl}}/assets/img/jfee.png)
+![I and My friends]({{site.baseurl}}/assets/img/jfee.PNG)
