@@ -13,6 +13,10 @@ It has chapter wise questions as well as separate for your practice and check fo
 
 This project was undertook mainly to understand the process of developing a professional looking application that can aid prospecting accountants in their journey.
 
+### Link to the playstore
+
+https://play.google.com/store/apps/details?id=com.finance.accountingquiz
+
 ### Main Page
 
 ![I and My friends]({{site.baseurl}}/assets/img/m1.jpg)
