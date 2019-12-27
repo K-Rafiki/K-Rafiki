@@ -6,12 +6,15 @@ description: You’ll find this post in your `_posts` directory. Go ahead and ed
 img: javafx.jpg # Add image post (optional)
 ---
 
-This project is a desktop application developed using JavaFX, it is currently under development, listed under, are the completed features of the application.
+This project is a desktop application developed using JavaFX, listed under, are the features of the System.
 
 * Students record managed including saving scanned copies of CNIC, Birth Certificate and Photo.
-* Students Marks of all classes.
-* Managing of student's fees.
-* Different, details that make an application complete, for instance, searching a student, sorting by class, removing, viewing photos directly from the application
+* Managing marks of every subject for every student
+* Tracking students monthly fees.
+* Well optimized application features; searching a student, sorting by class, advanced datepicker, backend server.
+* Online Backup Support.
+* Tracking attendance of Students
+* Tracking attendance of teachers
 
 
 ## Main Page
@@ -38,3 +41,8 @@ This project is a desktop application developed using JavaFX, it is currently un
 ## Teachers Side
 
 ![I and My friends]({{site.baseurl}}/assets/img/teachers.PNG)
+
+
+# Android app for faster and efficient managing of School
+
+The android application was developed to have efficient managing of your School. 
