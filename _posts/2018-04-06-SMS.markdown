@@ -16,7 +16,7 @@ This project is a desktop application developed using JavaFX, it is currently un
 
 ## Main Page
 
-![I and My friends]({{site.baseurl}}/assets/img/jmain.PNG)
+![I and My friends]({{site.baseurl}}/assets/img/students.PNG)
 
 ## Searching
 
