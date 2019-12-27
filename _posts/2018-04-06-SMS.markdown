@@ -21,6 +21,11 @@ This project is a desktop application developed using JavaFX, listed under, are 
 
 ![I and My friends]({{site.baseurl}}/assets/img/students.PNG)
 
+## Options for individual students
+
+![I and My friends]({{site.baseurl}}/assets/img/rightclick.png)
+
+
 ## Inserting a student
 
 ![I and My friends]({{site.baseurl}}/assets/img/insert.PNG)
