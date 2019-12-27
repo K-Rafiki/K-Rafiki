@@ -18,14 +18,23 @@ This project is a desktop application developed using JavaFX, it is currently un
 
 ![I and My friends]({{site.baseurl}}/assets/img/students.PNG)
 
-## Searching
+## Inserting a student
 
-![I and My friends]({{site.baseurl}}/assets/img/jsearch.PNG)
+![I and My friends]({{site.baseurl}}/assets/img/insert.PNG)
 
-## Marks
+## Taking attendance of students
 
-![I and My friends]({{site.baseurl}}/assets/img/jmarks.PNG)
+![I and My friends]({{site.baseurl}}/assets/img/attendance.PNG)
 
-## Fees
+## Tracking monthly Fees collected of students
 
-![I and My friends]({{site.baseurl}}/assets/img/jfee.PNG)
+![I and My friends]({{site.baseurl}}/assets/img/fees.PNG)
+
+
+## Marking subject scores of students
+
+![I and My friends]({{site.baseurl}}/assets/img/marks.PNG)
+
+## Teachers Side
+
+![I and My friends]({{site.baseurl}}/assets/img/teachers.PNG)
